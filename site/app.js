@@ -388,10 +388,6 @@ function syncStravaProfileLink(profileUrl) {
   } else {
     stravaProfileLink.textContent = parsed.label;
   }
-  if (headerMeta && stravaProfileLink.parentElement !== headerMeta) {
-    stravaProfileLink.hidden = true;
-    headerMeta.appendChild(stravaProfileLink);
-  }
   stravaProfileLink.hidden = false;
   syncHeaderLinkPlacement();
 }
