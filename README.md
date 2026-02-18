@@ -1,11 +1,11 @@
-# Workout --> GitHub Heatmap Dashboard
+# Workout --> Interactive Dashboard
 
-Turn your Strava and Garmin activities into GitHub-style contribution heatmaps.  
-Automatically generates a free, interactive dashboard updated daily on GitHub Pages.  
+Turn your Strava and Garmin activities into GitHub-style contribution graphs. Automatically generate a free, interactive dashboard updated daily on GitHub Pages.  
+
 **No coding required.**  
 
-- View the Interactive [Activity Dashboard](https://aspain.github.io/git-sweaty/)
-  - Once setup is complete, this dashboard link will automatically update to your own GitHub Pages URL.
+View the Interactive [Activity Dashboard](https://aspain.github.io/git-sweaty/).  
+Once setup is complete, this dashboard link will automatically update to your own GitHub Pages URL.
 
 
 ![Dashboard Preview](site/readme-preview-20260217.png)
@@ -28,8 +28,9 @@ You will be prompted for:
 - Heatmap week start (`Sunday` or `Monday`)
 - Optional profile link in the dashboard header for the selected source (`Yes` or `No`)
 - Optional tooltip links to individual activities for the selected source (`Yes` or `No`)
-- Source auth credentials (after the optional link prompts):
-  - Strava: API `client_id` + `client_secret`, then browser OAuth approval
+- Source auth credentials:
+  - Strava: prompt will provide a link to create a [Strava API application](https://www.strava.com/settings/api) first, set Authorization Callback Domain to `localhost`.
+    - Then paste the `client_id` + `client_secret` values in the prompt, then a browser tab will open for OAuth approval
   - Garmin: account email + password
 
 The setup may take several minutes to complete when run for the first time. If any automation step fails, the script prints steps to remedy the failed step.  
