@@ -1161,8 +1161,7 @@ function buildSectionLayoutPlan(list) {
 
     if (graphRailWidth > 0 && totalFrequencyGraphWidth > 0) {
       const frequencyRailWidth = (
-        desktopLike
-        && dominantYearRailWidth > 0
+        dominantYearRailWidth > 0
         && dominantYearRailWidth < graphRailWidth
       )
         ? dominantYearRailWidth
@@ -1171,9 +1170,7 @@ function buildSectionLayoutPlan(list) {
       const totalGap = Math.max(0, targetRailWidth - totalFrequencyGraphWidth);
       if (graphCount > 1) {
         const gapCount = graphCount - 1;
-        const desiredTrailingPad = isNarrowLayoutViewport()
-          ? 0
-          : readCssVar("--year-grid-pad-right", 0, frequencyCard);
+        const desiredTrailingPad = readCssVar("--year-grid-pad-right", 0, frequencyCard);
         const trailingPad = Math.max(0, Math.min(totalGap, desiredTrailingPad));
         const distributableGap = Math.max(0, totalGap - trailingPad);
         // Reserve trailing right gutter first so the third graph rail stays aligned with yearly rails.
