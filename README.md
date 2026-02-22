@@ -8,7 +8,7 @@ View the Interactive [Activity Dashboard](http://adamspain.com/git-sweaty/).
 Once setup is complete, this dashboard link will automatically update to your own GitHub Pages URL.
 
 
-![Dashboard Preview](site/readme-preview-20260217.png)
+![Dashboard Preview](site/readme-preview-20260222a.png)
 
 ## Quick Start
 
