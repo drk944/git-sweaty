@@ -622,7 +622,7 @@
             "21976594367"
           ],
           "count": 1,
-          "distance": 0.0,
+          "distance": 22852.68359375,
           "elevation_gain": 0.0,
           "moving_time": 2837.777099609375
         }
@@ -773,7 +773,7 @@
       }
     }
   },
-  "generated_at": "2026-02-27T19:47:20.716390+00:00",
+  "generated_at": "2026-02-28T15:18:19.928486+00:00",
   "other_bucket": "OtherSports",
   "repo": "drk944/git-sweaty",
   "source": "garmin",
