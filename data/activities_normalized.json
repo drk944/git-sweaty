@@ -635,5 +635,18 @@
     "start_date_local": "2026-02-26T15:42:42",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-02-28",
+    "distance": 28984.08984375,
+    "elevation_gain": 126.0,
+    "id": "22017610885",
+    "moving_time": 8745.065979003906,
+    "name": "Orem - 18 mile LR",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-02-28T09:10:28",
+    "type": "Run",
+    "year": 2026
   }
 ]
