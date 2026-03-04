@@ -661,5 +661,31 @@
     "start_date_local": "2026-03-02T15:12:11",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 21565.208984375,
+    "elevation_gain": 0.0,
+    "id": "22054088558",
+    "moving_time": 2623.927001953125,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-03-03T19:06:13",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 6448.10009765625,
+    "elevation_gain": 0.0,
+    "id": "22054280724",
+    "moving_time": 2415.2789916992188,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-03-03T20:13:54",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
