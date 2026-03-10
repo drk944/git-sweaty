@@ -713,5 +713,18 @@
     "start_date_local": "2026-03-07T10:26:54",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22121622243",
+    "moving_time": 2400.508056640625,
+    "name": "Stair Stepper",
+    "raw_activity_type": "stair_climbing",
+    "raw_type": "stair_climbing",
+    "start_date_local": "2026-03-09T20:14:35",
+    "type": "stair_climbing",
+    "year": 2026
   }
 ]
