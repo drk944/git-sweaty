@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="./site/git-sweaty-logo.svg" alt="git-sweaty-logo" /><br>
+  <sub>
+    (create your own README banner like this
+    <a href="https://github.com/aspain/heatmap-logo">here</a>)
+  </sub>
+</p>
+
 # Workout --> Interactive Dashboard
 
 Turn your Strava and Garmin activities into GitHub-style contribution graphs. Automatically generate a free, interactive dashboard updated daily on GitHub Pages.  
@@ -12,10 +20,18 @@ Once setup is complete, this dashboard link will automatically update to your ow
 
 ## Quick Start
 
-### Run:
+### macOS / Linux
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/aspain/git-sweaty/main/scripts/bootstrap.sh)
+```
+
+### Windows (requires WSL)
+
+Run this in PowerShell.
+
+```powershell
+wsl bash -lc "bash <(curl -fsSL https://raw.githubusercontent.com/aspain/git-sweaty/main/scripts/bootstrap.sh)"
 ```
 
 You will be prompted for:
