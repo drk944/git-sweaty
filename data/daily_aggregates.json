@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T16:01:24.369122+00:00",
+  "generated_at": "2026-04-02T15:56:52.687933+00:00",
   "years": {
     "2025": {
       "Run": {
@@ -263,6 +263,24 @@
           "distance": 28969.099853515625,
           "elevation_gain": 90.0,
           "moving_time": 8872.072967529297
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "22310330493"
+          ],
+          "count": 1,
+          "distance": 17724.740234375,
+          "elevation_gain": 145.0,
+          "moving_time": 6303.575012207031
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "22329199380"
+          ],
+          "count": 1,
+          "distance": 22563.2890625,
+          "elevation_gain": 188.0,
+          "moving_time": 7205.558990478516
         }
       },
       "VirtualRide": {
@@ -484,6 +502,15 @@
           "distance": 11684.150390625,
           "elevation_gain": 0.0,
           "moving_time": 4562.5260009765625
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "22378415008"
+          ],
+          "count": 1,
+          "distance": 9067.2099609375,
+          "elevation_gain": 0.0,
+          "moving_time": 3190.0
         }
       },
       "Walk": {
