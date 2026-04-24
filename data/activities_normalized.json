@@ -1025,5 +1025,18 @@
     "start_date_local": "2026-04-21T19:03:22",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 16166.1396484375,
+    "elevation_gain": 33.0,
+    "id": "22636158636",
+    "moving_time": 4858.402008056641,
+    "name": "Orem - 4x1200",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-23T14:58:39",
+    "type": "Run",
+    "year": 2026
   }
 ]
