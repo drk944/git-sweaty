@@ -1090,5 +1090,18 @@
     "start_date_local": "2026-04-29T20:56:26",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22732437847",
+    "moving_time": 1801.39599609375,
+    "name": "Stair Stepper",
+    "raw_activity_type": "stair_climbing",
+    "raw_type": "stair_climbing",
+    "start_date_local": "2026-05-01T20:16:33",
+    "type": "stair_climbing",
+    "year": 2026
   }
 ]

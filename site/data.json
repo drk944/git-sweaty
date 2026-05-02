@@ -587,6 +587,13 @@
       "subtype": "treadmill_running",
       "type": "VirtualRun",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 20,
+      "subtype": "stair_climbing",
+      "type": "stair_climbing",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1297,11 +1304,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1805.2259521484375
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "22732437847"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1801.39599609375
         }
       }
     }
   },
-  "generated_at": "2026-05-01T15:53:34.434817+00:00",
+  "generated_at": "2026-05-02T15:41:27.517902+00:00",
   "other_bucket": "OtherSports",
   "repo": "drk944/git-sweaty",
   "source": "garmin",
