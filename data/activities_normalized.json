@@ -1103,5 +1103,18 @@
     "start_date_local": "2026-05-01T20:16:33",
     "type": "stair_climbing",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 25767.25,
+    "elevation_gain": 79.0,
+    "id": "22741023712",
+    "moving_time": 7659.271011352539,
+    "name": "Orem - 16 mile LR",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-02T08:50:30",
+    "type": "Run",
+    "year": 2026
   }
 ]
