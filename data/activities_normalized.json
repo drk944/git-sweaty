@@ -1129,5 +1129,18 @@
     "start_date_local": "2026-05-04T19:22:46",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22779996225",
+    "moving_time": 2549.926025390625,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-05-05T19:05:44",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
