@@ -1389,5 +1389,18 @@
     "start_date_local": "2026-06-09T19:57:32",
     "type": "stair_climbing",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 16153.919921875,
+    "elevation_gain": 48.0,
+    "id": "23207041239",
+    "moving_time": 5423.0,
+    "name": "Orem Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-10T19:12:25",
+    "type": "Run",
+    "year": 2026
   }
 ]
