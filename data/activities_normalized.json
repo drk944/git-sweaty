@@ -1402,5 +1402,31 @@
     "start_date_local": "2026-06-10T19:12:25",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 8090.419921875,
+    "elevation_gain": 7.0,
+    "id": "23229073602",
+    "moving_time": 2906.2969970703125,
+    "name": "Orem Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-12T20:10:41",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 25932.16015625,
+    "elevation_gain": 84.0,
+    "id": "23235702314",
+    "moving_time": 7701.013977050781,
+    "name": "Orem - 16 w/ 10 at MP",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-13T06:11:23",
+    "type": "Run",
+    "year": 2026
   }
 ]
