@@ -790,6 +790,27 @@
       "subtype": "treadmill_running",
       "type": "VirtualRun",
       "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 19,
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 20,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 6,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1327,6 +1348,24 @@
           "distance": 12936.599609375,
           "elevation_gain": 29.0,
           "moving_time": 4168.875
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "23312014020"
+          ],
+          "count": 1,
+          "distance": 4607.669921875,
+          "elevation_gain": 6.0,
+          "moving_time": 1476.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "23318166634"
+          ],
+          "count": 1,
+          "distance": 19343.30078125,
+          "elevation_gain": 130.0,
+          "moving_time": 6159.571014404297
         }
       },
       "VirtualRide": {
@@ -1638,6 +1677,15 @@
           "distance": 9674.919921875,
           "elevation_gain": 0.0,
           "moving_time": 3713.8699951171875
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "23311917109"
+          ],
+          "count": 1,
+          "distance": 5138.6201171875,
+          "elevation_gain": 0.0,
+          "moving_time": 1973.0
         }
       },
       "Walk": {
@@ -1757,7 +1805,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T17:15:19.856987+00:00",
+  "generated_at": "2026-06-20T16:14:17.774962+00:00",
   "other_bucket": "OtherSports",
   "repo": "drk944/git-sweaty",
   "source": "garmin",
