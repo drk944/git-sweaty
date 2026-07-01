@@ -1584,5 +1584,18 @@
     "start_date_local": "2026-06-29T06:34:28",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 16138.98046875,
+    "elevation_gain": 44.0,
+    "id": "23442300454",
+    "moving_time": 4965.885986328125,
+    "name": "Orem - 10 with 6 at HPM",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-01T06:17:41",
+    "type": "Run",
+    "year": 2026
   }
 ]
