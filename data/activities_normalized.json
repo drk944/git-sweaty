@@ -1662,5 +1662,31 @@
     "start_date_local": "2026-07-04T08:48:50",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23505303722",
+    "moving_time": 2427.346923828125,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-07-06T19:31:15",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23505331125",
+    "moving_time": 335.2619934082031,
+    "name": "Stair Stepper",
+    "raw_activity_type": "stair_climbing",
+    "raw_type": "stair_climbing",
+    "start_date_local": "2026-07-06T20:13:04",
+    "type": "stair_climbing",
+    "year": 2026
   }
 ]
