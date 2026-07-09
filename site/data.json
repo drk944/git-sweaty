@@ -916,6 +916,13 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-07-09",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1555,6 +1562,15 @@
           "distance": 9708.83984375,
           "elevation_gain": 12.0,
           "moving_time": 3036.0
+        },
+        "2026-07-09": {
+          "activity_ids": [
+            "23536776691"
+          ],
+          "count": 1,
+          "distance": 32227.099609375,
+          "elevation_gain": 61.0,
+          "moving_time": 9358.69400024414
         }
       },
       "VirtualRide": {
@@ -2021,7 +2037,7 @@
       }
     }
   },
-  "generated_at": "2026-07-08T16:27:12.061671+00:00",
+  "generated_at": "2026-07-09T17:19:04.801293+00:00",
   "other_bucket": "OtherSports",
   "repo": "drk944/git-sweaty",
   "source": "garmin",
