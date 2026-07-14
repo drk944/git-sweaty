@@ -1740,5 +1740,31 @@
     "start_date_local": "2026-07-11T20:24:43",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 3237.010009765625,
+    "elevation_gain": 3.0,
+    "id": "23589035716",
+    "moving_time": 1035.0,
+    "name": "Orem Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-13T20:39:31",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 8603.1904296875,
+    "elevation_gain": 0.0,
+    "id": "23589454943",
+    "moving_time": 3033.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-07-13T21:17:18",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
