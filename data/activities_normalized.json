@@ -1831,5 +1831,31 @@
     "start_date_local": "2026-07-20T20:10:38",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23685429998",
+    "moving_time": 4470.68017578125,
+    "name": "Stair Stepper",
+    "raw_activity_type": "stair_climbing",
+    "raw_type": "stair_climbing",
+    "start_date_local": "2026-07-21T19:56:12",
+    "type": "stair_climbing",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 19386.330078125,
+    "elevation_gain": 46.0,
+    "id": "23691222188",
+    "moving_time": 6250.0,
+    "name": "Orem Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-22T06:18:01",
+    "type": "Run",
+    "year": 2026
   }
 ]
