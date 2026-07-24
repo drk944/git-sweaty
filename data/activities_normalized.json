@@ -1857,5 +1857,18 @@
     "start_date_local": "2026-07-22T06:18:01",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 4893.60986328125,
+    "elevation_gain": 0.0,
+    "id": "23715823579",
+    "moving_time": 1183.72900390625,
+    "name": "Provo Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-24T07:59:11",
+    "type": "Run",
+    "year": 2026
   }
 ]
