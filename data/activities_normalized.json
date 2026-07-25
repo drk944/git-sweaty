@@ -1870,5 +1870,18 @@
     "start_date_local": "2026-07-24T07:59:11",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 31865.30078125,
+    "elevation_gain": 60.0,
+    "id": "23728819691",
+    "moving_time": 9942.30599975586,
+    "name": "Orem - 20 miler",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-25T05:53:31",
+    "type": "Run",
+    "year": 2026
   }
 ]
