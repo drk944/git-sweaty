@@ -1896,5 +1896,31 @@
     "start_date_local": "2026-07-27T19:57:28",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23770830942",
+    "moving_time": 3002.446044921875,
+    "name": "Stair Stepper",
+    "raw_activity_type": "stair_climbing",
+    "raw_type": "stair_climbing",
+    "start_date_local": "2026-07-28T19:55:20",
+    "type": "stair_climbing",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 13429.490234375,
+    "elevation_gain": 570.0,
+    "id": "23777032695",
+    "moving_time": 6457.1820068359375,
+    "name": "Provo Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-29T06:30:25",
+    "type": "Run",
+    "year": 2026
   }
 ]
