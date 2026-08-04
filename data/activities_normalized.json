@@ -1935,5 +1935,18 @@
     "start_date_local": "2026-08-01T05:28:17",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 8079.47021484375,
+    "elevation_gain": 18.0,
+    "id": "23843377249",
+    "moving_time": 2793.1420001387596,
+    "name": "Orem - 5x1000 m @ 5k pace",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-03T19:56:41",
+    "type": "Run",
+    "year": 2026
   }
 ]
