@@ -1961,5 +1961,18 @@
     "start_date_local": "2026-08-05T06:14:41",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 14550.0,
+    "elevation_gain": 1.0,
+    "id": "23882224022",
+    "moving_time": 4569.237976074219,
+    "name": "5x1000 m @ 5k pace",
+    "raw_activity_type": "track_running",
+    "raw_type": "track_running",
+    "start_date_local": "2026-08-06T20:18:41",
+    "type": "Run",
+    "year": 2026
   }
 ]
