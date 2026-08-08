@@ -1974,5 +1974,18 @@
     "start_date_local": "2026-08-06T20:18:41",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 29007.619140625,
+    "elevation_gain": 115.0,
+    "id": "23900443871",
+    "moving_time": 8465.955993652344,
+    "name": "Orem - 18 with 15 @ MP",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-08T05:40:28",
+    "type": "Run",
+    "year": 2026
   }
 ]
