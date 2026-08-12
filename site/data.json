@@ -1077,6 +1077,20 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-08-11",
+      "hour": 20,
+      "subtype": "stair_climbing",
+      "type": "stair_climbing",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 7,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1869,6 +1883,15 @@
           "distance": 12887.51953125,
           "elevation_gain": 17.0,
           "moving_time": 4132.052017211914
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "23950891976"
+          ],
+          "count": 1,
+          "distance": 16114.23046875,
+          "elevation_gain": 545.0,
+          "moving_time": 6854.3890380859375
         }
       },
       "VirtualRide": {
@@ -2385,11 +2408,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3002.446044921875
+        },
+        "2026-08-11": {
+          "activity_ids": [
+            "23944049875"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3201.25
         }
       }
     }
   },
-  "generated_at": "2026-08-11T15:55:47.433963+00:00",
+  "generated_at": "2026-08-12T15:54:44.914019+00:00",
   "other_bucket": "OtherSports",
   "repo": "drk944/git-sweaty",
   "source": "garmin",
