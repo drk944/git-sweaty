@@ -2039,5 +2039,31 @@
     "start_date_local": "2026-08-14T09:28:01",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 6484.5,
+    "elevation_gain": 8.0,
+    "id": "24017329177",
+    "moving_time": 2299.614013671875,
+    "name": "Orem Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-17T20:12:26",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 16206.919921875,
+    "elevation_gain": 38.0,
+    "id": "24023638889",
+    "moving_time": 5060.259002685547,
+    "name": "Orem - 4x1200",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-18T06:51:49",
+    "type": "Run",
+    "year": 2026
   }
 ]
