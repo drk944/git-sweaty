@@ -1112,6 +1112,13 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 11,
+      "subtype": "stair_climbing",
+      "type": "stair_climbing",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2465,11 +2472,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3201.25
+        },
+        "2026-08-19": {
+          "activity_ids": [
+            "24040227104"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2384.60791015625
         }
       }
     }
   },
-  "generated_at": "2026-08-19T15:25:48.540353+00:00",
+  "generated_at": "2026-08-20T15:28:05.619714+00:00",
   "other_bucket": "OtherSports",
   "repo": "drk944/git-sweaty",
   "source": "garmin",
