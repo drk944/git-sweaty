@@ -2091,5 +2091,18 @@
     "start_date_local": "2026-08-21T20:16:48",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 35437.3984375,
+    "elevation_gain": 168.0,
+    "id": "24074915403",
+    "moving_time": 10677.276977539062,
+    "name": "Orem - 22 miler",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-22T06:05:04",
+    "type": "Run",
+    "year": 2026
   }
 ]
