@@ -2182,5 +2182,18 @@
     "start_date_local": "2026-09-01T19:05:33",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 4842.72021484375,
+    "elevation_gain": 9.0,
+    "id": "24249832487",
+    "moving_time": 1766.0549926757812,
+    "name": "Orem Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-05T10:06:26",
+    "type": "Run",
+    "year": 2026
   }
 ]

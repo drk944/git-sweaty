@@ -1175,6 +1175,13 @@
       "subtype": "indoor_cycling",
       "type": "VirtualRide",
       "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 10,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2057,6 +2064,15 @@
           "distance": 8072.58984375,
           "elevation_gain": 17.0,
           "moving_time": 2706.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "24249832487"
+          ],
+          "count": 1,
+          "distance": 4842.72021484375,
+          "elevation_gain": 9.0,
+          "moving_time": 1766.0549926757812
         }
       },
       "Swim": {
@@ -2615,7 +2631,7 @@
       }
     }
   },
-  "generated_at": "2026-09-04T18:00:52.349184+00:00",
+  "generated_at": "2026-09-05T17:04:33.440496+00:00",
   "other_bucket": "OtherSports",
   "repo": "drk944/git-sweaty",
   "source": "garmin",
