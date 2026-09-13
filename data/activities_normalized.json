@@ -2234,5 +2234,18 @@
     "start_date_local": "2026-09-10T08:15:36",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 42473.94140625,
+    "elevation_gain": 28.0,
+    "id": "24337243372",
+    "moving_time": 13018.650024414062,
+    "name": "Kittitas County Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-12T07:01:16",
+    "type": "Run",
+    "year": 2026
   }
 ]
