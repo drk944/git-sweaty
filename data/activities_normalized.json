@@ -2273,5 +2273,18 @@
     "start_date_local": "2026-09-21T12:24:20",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-23",
+    "distance": 9696.9296875,
+    "elevation_gain": 74.0,
+    "id": "24469950771",
+    "moving_time": 3291.0,
+    "name": "Kennewick Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-23T06:25:44",
+    "type": "Run",
+    "year": 2026
   }
 ]
