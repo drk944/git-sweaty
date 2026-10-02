@@ -2325,5 +2325,18 @@
     "start_date_local": "2026-09-29T18:52:54",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 6459.18017578125,
+    "elevation_gain": 13.0,
+    "id": "24573227229",
+    "moving_time": 2127.9929809570312,
+    "name": "Orem Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-01T18:19:23",
+    "type": "Run",
+    "year": 2026
   }
 ]
