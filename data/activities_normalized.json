@@ -2390,5 +2390,18 @@
     "start_date_local": "2026-10-12T09:31:07",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 17953.3203125,
+    "elevation_gain": 126.0,
+    "id": "24710036797",
+    "moving_time": 5840.097030639648,
+    "name": "Cedar Hills - 8x1km at MP",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-13T07:18:52",
+    "type": "Run",
+    "year": 2026
   }
 ]
