@@ -2403,5 +2403,44 @@
     "start_date_local": "2026-10-13T07:18:52",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 12151.4697265625,
+    "elevation_gain": 66.0,
+    "id": "24728093306",
+    "moving_time": 3847.2239837646484,
+    "name": "Cedar Hills - 30 minute trial",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-14T17:32:53",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 1349.260009765625,
+    "elevation_gain": 65.0,
+    "id": "24728164181",
+    "moving_time": 809.89599609375,
+    "name": "Cedar Hills Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-10-14T18:40:52",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 22799.349609375,
+    "elevation_gain": 133.0,
+    "id": "24735041881",
+    "moving_time": 7834.5899658203125,
+    "name": "Cedar Hills Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-15T07:29:57",
+    "type": "Run",
+    "year": 2026
   }
 ]
