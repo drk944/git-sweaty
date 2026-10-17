@@ -2442,5 +2442,31 @@
     "start_date_local": "2026-10-15T07:29:57",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 1869.6099853515625,
+    "elevation_gain": 7.0,
+    "id": "24756636563",
+    "moving_time": 682.0,
+    "name": "Lehi Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-17T07:21:36",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 4894.52001953125,
+    "elevation_gain": 53.0,
+    "id": "24757310376",
+    "moving_time": 1340.375,
+    "name": "Lehi Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-17T08:00:17",
+    "type": "Run",
+    "year": 2026
   }
 ]
