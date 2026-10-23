@@ -2507,5 +2507,18 @@
     "start_date_local": "2026-10-21T20:56:23",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 13481.7001953125,
+    "elevation_gain": 162.0,
+    "id": "24818984419",
+    "moving_time": 4509.504974365234,
+    "name": "Cedar Hills - 75 minutes",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-22T13:33:57",
+    "type": "Run",
+    "year": 2026
   }
 ]
