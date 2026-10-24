@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:50:39.705968+00:00",
+  "generated_at": "2026-10-24T17:46:52.296749+00:00",
   "years": {
     "2025": {
       "Run": {
@@ -42,6 +42,17 @@
       }
     },
     "2026": {
+      "HighIntensityIntervalTraining": {
+        "2026-10-23": {
+          "activity_ids": [
+            "24830999342"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1810.1240234375
+        }
+      },
       "Run": {
         "2026-01-01": {
           "activity_ids": [
@@ -1070,6 +1081,15 @@
           "distance": 13481.7001953125,
           "elevation_gain": 162.0,
           "moving_time": 4509.504974365234
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "24838728546"
+          ],
+          "count": 1,
+          "distance": 23288.05078125,
+          "elevation_gain": 149.0,
+          "moving_time": 8090.205993652344
         }
       },
       "Swim": {

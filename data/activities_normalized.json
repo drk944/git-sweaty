@@ -2520,5 +2520,31 @@
     "start_date_local": "2026-10-22T13:33:57",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24830999342",
+    "moving_time": 1810.1240234375,
+    "name": "HIIT",
+    "raw_activity_type": "hiit",
+    "raw_type": "hiit",
+    "start_date_local": "2026-10-23T20:44:58",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 23288.05078125,
+    "elevation_gain": 149.0,
+    "id": "24838728546",
+    "moving_time": 8090.205993652344,
+    "name": "Cedar Hills Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-24T08:57:13",
+    "type": "Run",
+    "year": 2026
   }
 ]
