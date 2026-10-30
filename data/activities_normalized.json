@@ -2585,5 +2585,31 @@
     "start_date_local": "2026-10-28T20:33:35",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 7145.490234375,
+    "elevation_gain": 0.0,
+    "id": "24898910912",
+    "moving_time": 2630.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-10-29T15:36:29",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 11276.150390625,
+    "elevation_gain": 114.0,
+    "id": "24905484744",
+    "moving_time": 3429.9359741210938,
+    "name": "Cedar Hills Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-30T07:30:05",
+    "type": "Run",
+    "year": 2026
   }
 ]
