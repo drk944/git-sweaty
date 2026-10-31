@@ -2611,5 +2611,18 @@
     "start_date_local": "2026-10-30T07:30:05",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 24311.880859375,
+    "elevation_gain": 48.0,
+    "id": "24918423740",
+    "moving_time": 7718.666046142578,
+    "name": "Cedar Hills - 15 mile progression run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-31T06:43:48",
+    "type": "Run",
+    "year": 2026
   }
 ]
