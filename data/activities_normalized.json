@@ -2624,5 +2624,31 @@
     "start_date_local": "2026-10-31T06:43:48",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 9122.330078125,
+    "elevation_gain": 40.0,
+    "id": "24945908658",
+    "moving_time": 3403.0,
+    "name": "Cedar Hills Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-02T16:24:46",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 18392.060546875,
+    "elevation_gain": 127.0,
+    "id": "24952664620",
+    "moving_time": 5769.446014404297,
+    "name": "Cedar Hills - 8 miles speed",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-03T06:41:31",
+    "type": "Run",
+    "year": 2026
   }
 ]
