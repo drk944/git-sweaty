@@ -1427,6 +1427,13 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 17,
+      "subtype": "indoor_cardio",
+      "type": "Workout",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3017,6 +3024,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 606.4619750976562
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "24970305300"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2702.458984375
         }
       },
       "stair_climbing": {
@@ -3185,7 +3201,7 @@
       }
     }
   },
-  "generated_at": "2026-11-04T21:01:14.238185+00:00",
+  "generated_at": "2026-11-05T21:18:23.679991+00:00",
   "other_bucket": "OtherSports",
   "repo": "drk944/git-sweaty",
   "source": "garmin",
