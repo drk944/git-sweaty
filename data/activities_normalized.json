@@ -2702,5 +2702,31 @@
     "start_date_local": "2026-11-07T07:26:00",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 10956.9404296875,
+    "elevation_gain": 74.0,
+    "id": "25025683976",
+    "moving_time": 3777.4100341796875,
+    "name": "Cedar Hills Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-09T16:05:31",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 16445.939453125,
+    "elevation_gain": 112.0,
+    "id": "25032144903",
+    "moving_time": 5136.824981689453,
+    "name": "Cedar Hills - 3x2 miles",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-10T06:46:35",
+    "type": "Run",
+    "year": 2026
   }
 ]
