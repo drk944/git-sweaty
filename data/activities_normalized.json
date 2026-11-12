@@ -2728,5 +2728,18 @@
     "start_date_local": "2026-11-10T06:46:35",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 10145.58984375,
+    "elevation_gain": 24.0,
+    "id": "25048604167",
+    "moving_time": 3598.72998046875,
+    "name": "Cedar Hills Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-11T14:11:15",
+    "type": "Run",
+    "year": 2026
   }
 ]
