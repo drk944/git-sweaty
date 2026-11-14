@@ -2741,5 +2741,57 @@
     "start_date_local": "2026-11-11T14:11:15",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "25069989515",
+    "moving_time": 2702.68310546875,
+    "name": "Cardio",
+    "raw_activity_type": "indoor_cardio",
+    "raw_type": "indoor_cardio",
+    "start_date_local": "2026-11-12T20:29:27",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 3147.4599609375,
+    "elevation_gain": 0.0,
+    "id": "25069990031",
+    "moving_time": 1093.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-11-13T15:29:12",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 7062.85986328125,
+    "elevation_gain": 0.0,
+    "id": "25070362054",
+    "moving_time": 2503.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-11-13T16:12:57",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 28989.890625,
+    "elevation_gain": 98.0,
+    "id": "25078704408",
+    "moving_time": 9143.382995605469,
+    "name": "Cedar Hills - 18 mile progression long run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-14T06:51:26",
+    "type": "Run",
+    "year": 2026
   }
 ]

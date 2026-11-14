@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T21:08:20.666246+00:00",
+  "generated_at": "2026-11-14T19:39:54.805499+00:00",
   "years": {
     "2025": {
       "Run": {
@@ -1198,6 +1198,15 @@
           "distance": 10145.58984375,
           "elevation_gain": 24.0,
           "moving_time": 3598.72998046875
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "25078704408"
+          ],
+          "count": 1,
+          "distance": 28989.890625,
+          "elevation_gain": 98.0,
+          "moving_time": 9143.382995605469
         }
       },
       "Swim": {
@@ -1610,6 +1619,16 @@
           "distance": 9775.2802734375,
           "elevation_gain": 0.0,
           "moving_time": 3516.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "25069990031",
+            "25070362054"
+          ],
+          "count": 2,
+          "distance": 10210.31982421875,
+          "elevation_gain": 0.0,
+          "moving_time": 3596.0
         }
       },
       "Walk": {
@@ -1651,6 +1670,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2702.458984375
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            "25069989515"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2702.68310546875
         }
       },
       "stair_climbing": {
