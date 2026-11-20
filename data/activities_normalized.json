@@ -2819,5 +2819,31 @@
     "start_date_local": "2026-11-18T10:03:18",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 13411.9599609375,
+    "elevation_gain": 65.0,
+    "id": "25136577711",
+    "moving_time": 4406.195983886719,
+    "name": "Cedar Hills - 40, 30",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-19T16:02:57",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "25143200968",
+    "moving_time": 3015.830078125,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-11-20T08:42:11",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
